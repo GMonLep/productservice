@@ -1,0 +1,3 @@
+com\perfulandia\productservice\ProductserviceApplicationTests.class
+com\perfulandia\productservice\service\ProductoServiceTest.class
+com\perfulandia\productservice\controller\ProductoControllerTest.class
